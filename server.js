@@ -10,7 +10,7 @@ const middlewares = jsonServer.defaults()
 
 const customMiddlewares = require(path.join(__dirname, 'auth-middleware.js'))
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5000;
 
 
 // 미들웨어 설정 
