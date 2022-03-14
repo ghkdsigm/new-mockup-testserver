@@ -131,6 +131,17 @@
         "id": 11,
         "url": "https://via.placeholder.com/600/122741",
         "thumbnailUrl": "https://via.placeholder.com/150/122741"
+      },
+      {
+        "username": "신수지",
+        "email": "susi@email.com",
+        "phonenumber": "010-111-2211",
+        "nickname": "joo",
+        "address": "서울시 양천구 목동 3221-331동",
+        "password": "12345999",
+        "id": 12,
+        "url": "https://via.placeholder.com/600/1835a8",
+        "thumbnailUrl": "https://via.placeholder.com/150/1835a8"
       }
     ]
   }
