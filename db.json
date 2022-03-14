@@ -2,61 +2,78 @@
     "users": [
       {
         "id": 0,
-        "name": "쩡대리",
-        "email": "dev-jeong01@email.com",
+        "name": "황승현",
+        "email": "hshgood@email.com",
+        "phone": "010-5454-8787",
         "password": "12345"
       },
       {
-        "name": "쩡대리1-수정됨",
-        "email": "dev-jeong02ㅇㅇㅇ@email.com",
-        "password": "12345",
-        "id": 1
+        "id": 1,
+        "name": "설인아",
+        "email": "inazaing@email.com",
+        "phone": "010-4544-1111",
+        "password": "12345"
+      },
+      {
+        "id": 2,
+        "name": "노다솜",
+        "email": "nodasome@email.com",
+        "phone": "010-4141-4445",
+        "password": "12345"
       },
       {
         "id": 3,
-        "name": "쩡대리3",
-        "email": "dev-jeong04@email.com",
+        "name": "권수진",
+        "email": "ksj@email.com",
+        "phone": "010-1234-2222",
         "password": "12345"
       },
       {
-        "name": "쩡대리5",
-        "email": "dev-jeong05@email.com",
+        "name": "박은지",
+        "email": "eunaaaji@email.com",
+        "phone": "010-1234-4445",
         "password": "12345",
         "id": 4
       },
       {
-        "name": "쩡대리133-수정됨",
-        "email": "dev-jeong02ㅇㅇㅇ@email.com",
+        "name": "박보영",
+        "email": "packddd@email.com",
+        "phone": "010-4412-1235",
         "password": "12345",
         "id": 5
       },
       {
-        "name": "쩡대리999-수정됨",
-        "email": "dev-jeong02ㅇㅇㅇ@email.com",
+        "name": "조미미",
+        "email": "jdoomi@email.com",
+        "phone": "010-4125-1231",
         "password": "12345",
         "id": 6
       },
       {
-        "name": "쩡대리-수정됨",
-        "email": "dev-jeong02999ㅇㅇㅇ@email.com",
+        "name": "윤정민",
+        "email": "youun@email.com",
+        "phone": "010-6663-3321",
         "password": "12345",
         "id": 7
       },
       {
-        "name": "호롤롤로-수정됨",
-        "email": "dev-23232323ㄴㅇㄹㄴㅇㄹ@email.com",
+        "name": "이다솜",
+        "email": "leeda@email.com",
+        "phone": "010-5513-1235",
         "password": "12345",
         "id": 8
       },
       {
-        "name": "쩡대리-수정됨99999",
-        "email": "dev-jeong0ㅇㅇㅇ@email.com",
+        "name": "유미연",
+        "email": "yoy@email.com",
+        "phone": "010-3443-3421",
         "password": "12345",
         "id": 9
       },
       {
-        "name": "쩡대리222",
-        "email": "dev-jeong0ㅇㅇㅇ@email.com",
+        "name": "고재희",
+        "email": "go@email.com",
+        "phone": "010-1512-4151",
         "password": "12345999",
         "id": 10
       }
