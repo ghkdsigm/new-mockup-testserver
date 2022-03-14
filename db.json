@@ -7,7 +7,9 @@
         "phonenumber": "010-5454-8787",
         "nickname": "so",
         "address": "서울시 양천구 목2동 131-1동",
-        "password": "12345"
+        "password": "12345",
+        "url": "https://via.placeholder.com/600/c74808",
+        "thumbnailUrl": "https://via.placeholder.com/150/c74808"
       },
       {
         "id": 1,
@@ -16,7 +18,9 @@
         "phonenumber": "010-4544-1111",
         "nickname": "so",
         "address": "경기도 수원시 권선구 131-1동",
-        "password": "12345"
+        "password": "12345",
+        "url": "https://via.placeholder.com/600/ea74e",
+        "thumbnailUrl": "https://via.placeholder.com/150/ea74e"
       },
       {
         "id": 2,
@@ -25,7 +29,9 @@
         "phonenumber": "010-4141-4445",
         "nickname": "so",
         "address": "경기도 부천시 심양빌라 1231-2123호",
-        "password": "12345"
+        "password": "12345",
+        "url": "https://via.placeholder.com/600/6be8c1",
+        "thumbnailUrl": "https://via.placeholder.com/150/6be8c1"
       },
       {
         "id": 3,
@@ -34,7 +40,9 @@
         "phonenumber": "010-1234-2222",
         "nickname": "so",
         "address": "서울시 서초구 방배동2동 131-1동",
-        "password": "12345"
+        "password": "12345",
+        "url": "https://via.placeholder.com/600/627b42",
+        "thumbnailUrl": "https://via.placeholder.com/150/627b42"
       },
       {
         "username": "박은지",
@@ -43,7 +51,9 @@
         "nickname": "so",
         "address": "서울시 강서구 방화5동 131-1동",
         "password": "12345",
-        "id": 4
+        "id": 4,
+        "url": "https://via.placeholder.com/600/36f93e",
+        "thumbnailUrl": "https://via.placeholder.com/150/36f93e"
       },
       {
         "username": "박보영",
@@ -52,7 +62,9 @@
         "nickname": "so",
         "address": "서울시 구로구 영드포동 4441-1동",
         "password": "12345",
-        "id": 5
+        "id": 5,
+        "url": "https://via.placeholder.com/600/6f3eae",
+        "thumbnailUrl": "https://via.placeholder.com/150/6f3eae"
       },
       {
         "username": "조미미",
@@ -61,7 +73,9 @@
         "nickname": "so",
         "address": "서울시 양천구 신정4동 123-14동",
         "password": "12345",
-        "id": 6
+        "id": 6,
+        "url": "https://via.placeholder.com/600/d94fb7",
+        "thumbnailUrl": "https://via.placeholder.com/150/d94fb7"
       },
       {
         "username": "윤정민",
@@ -70,7 +84,9 @@
         "nickname": "so",
         "address": "서울시 양천구 목1동 4331-222동",
         "password": "12345",
-        "id": 7
+        "id": 7,
+        "url": "https://via.placeholder.com/600/696ef",
+        "thumbnailUrl": "https://via.placeholder.com/150/696ef"
       },
       {
         "username": "이다솜",
@@ -79,7 +95,9 @@
         "nickname": "so",
         "address": "서울시 양천구 목1동 5551131-2221동",
         "password": "12345",
-        "id": 8
+        "id": 8,
+        "url": "https://via.placeholder.com/600/6b51f3",
+        "thumbnailUrl": "https://via.placeholder.com/150/6b51f3"
       },
       {
         "username": "유미연",
@@ -88,7 +106,9 @@
         "nickname": "so",
         "address": "서울시 구로구 대림2동 22-1동",
         "password": "12345",
-        "id": 9
+        "id": 9,
+        "url": "https://via.placeholder.com/600/747986",
+        "thumbnailUrl": "https://via.placeholder.com/150/747986"
       },
       {
         "username": "고재희",
@@ -97,7 +117,20 @@
         "nickname": "so",
         "address": "서울시 강서구 방화동 31-1동",
         "password": "12345999",
-        "id": 10
+        "id": 10,
+        "url": "https://via.placeholder.com/600/8661f8",
+        "thumbnailUrl": "https://via.placeholder.com/150/8661f8"
+      },
+      {
+        "username": "박주미",
+        "email": "jumi@email.com",
+        "phonenumber": "010-4441-2777",
+        "nickname": "joo",
+        "address": "서울시 구로구 신길동 31-1동",
+        "password": "12345999",
+        "id": 11,
+        "url": "https://via.placeholder.com/600/122741",
+        "thumbnailUrl": "https://via.placeholder.com/150/122741"
       }
     ]
   }
