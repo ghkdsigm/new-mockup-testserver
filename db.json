@@ -2,8 +2,8 @@
     "users": [
       {
         "id": 0,
-        "username": "황승현",
-        "email": "hshgood@email.com",
+        "name": "황승현",
+        "username": "hshgood@email.com",
         "phonenumber": "010-5454-8787",
         "nickname": "so",
         "address": "서울시 양천구 목2동 131-1동",
@@ -13,8 +13,8 @@
       },
       {
         "id": 1,
-        "username": "설인아",
-        "email": "inazaing@email.com",
+        "name": "설인아",
+        "username": "inazaing@email.com",
         "phonenumber": "010-4544-1111",
         "nickname": "so",
         "address": "경기도 수원시 권선구 131-1동",
@@ -24,8 +24,8 @@
       },
       {
         "id": 2,
-        "username": "노다솜",
-        "email": "nodasome@email.com",
+        "name": "노다솜",
+        "username": "nodasome@email.com",
         "phonenumber": "010-4141-4445",
         "nickname": "so",
         "address": "경기도 부천시 심양빌라 1231-2123호",
@@ -35,8 +35,8 @@
       },
       {
         "id": 3,
-        "username": "권수진",
-        "email": "ksj@email.com",
+        "name": "권수진",
+        "username": "ksj@email.com",
         "phonenumber": "010-1234-2222",
         "nickname": "so",
         "address": "서울시 서초구 방배동2동 131-1동",
@@ -45,8 +45,8 @@
         "thumbnailUrl": "https://via.placeholder.com/150/627b42"
       },
       {
-        "username": "박은지",
-        "email": "eunaaaji@email.com",
+        "name": "박은지",
+        "username": "eunaaaji@email.com",
         "phonenumber": "010-1234-4445",
         "nickname": "so",
         "address": "서울시 강서구 방화5동 131-1동",
@@ -56,8 +56,8 @@
         "thumbnailUrl": "https://via.placeholder.com/150/36f93e"
       },
       {
-        "username": "박보영",
-        "email": "packddd@email.com",
+        "name": "박보영",
+        "username": "packddd@email.com",
         "phonenumber": "010-4412-1235",
         "nickname": "so",
         "address": "서울시 구로구 영드포동 4441-1동",
@@ -67,8 +67,8 @@
         "thumbnailUrl": "https://via.placeholder.com/150/6f3eae"
       },
       {
-        "username": "조미미",
-        "email": "jdoomi@email.com",
+        "name": "조미미",
+        "username": "jdoomi@email.com",
         "phonenumber": "010-4125-1231",
         "nickname": "so",
         "address": "서울시 양천구 신정4동 123-14동",
@@ -78,8 +78,8 @@
         "thumbnailUrl": "https://via.placeholder.com/150/d94fb7"
       },
       {
-        "username": "윤정민",
-        "email": "youun@email.com",
+        "name": "윤정민",
+        "username": "youun@email.com",
         "phonenumber": "010-6663-3321",
         "nickname": "so",
         "address": "서울시 양천구 목1동 4331-222동",
@@ -89,8 +89,8 @@
         "thumbnailUrl": "https://via.placeholder.com/150/696ef"
       },
       {
-        "username": "이다솜",
-        "email": "leeda@email.com",
+        "name": "이다솜",
+        "username": "leeda@email.com",
         "phonenumber": "010-5513-1235",
         "nickname": "so",
         "address": "서울시 양천구 목1동 5551131-2221동",
@@ -100,8 +100,8 @@
         "thumbnailUrl": "https://via.placeholder.com/150/6b51f3"
       },
       {
-        "username": "유미연",
-        "email": "yoy@email.com",
+        "name": "유미연",
+        "username": "yoy@email.com",
         "phonenumber": "010-3443-3421",
         "nickname": "so",
         "address": "서울시 구로구 대림2동 22-1동",
@@ -111,8 +111,8 @@
         "thumbnailUrl": "https://via.placeholder.com/150/747986"
       },
       {
-        "username": "고재희",
-        "email": "go@email.com",
+        "name": "고재희",
+        "username": "go@email.com",
         "phonenumber": "010-1512-4151",
         "nickname": "so",
         "address": "서울시 강서구 방화동 31-1동",
@@ -122,8 +122,8 @@
         "thumbnailUrl": "https://via.placeholder.com/150/8661f8"
       },
       {
-        "username": "박주미",
-        "email": "jumi@email.com",
+        "name": "박주미",
+        "username": "jumi@email.com",
         "phonenumber": "010-4441-2777",
         "nickname": "joo",
         "address": "서울시 구로구 신길동 31-1동",
@@ -133,8 +133,8 @@
         "thumbnailUrl": "https://via.placeholder.com/150/122741"
       },
       {
-        "username": "신수지",
-        "email": "susi@email.com",
+        "name": "신수지",
+        "username": "susi@email.com",
         "phonenumber": "010-111-2211",
         "nickname": "joo",
         "address": "서울시 양천구 목동 3221-331동",
